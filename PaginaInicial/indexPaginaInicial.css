@@ -1,0 +1,32 @@
+.imagem1:hover{
+    
+    -webkit-transform: scale(1.03);
+    transform: scale(1.03); 
+}
+
+.imagem1{
+    transition: all 0.4s;
+    cursor: pointer;
+}
+
+.imagem2:hover{
+    
+    -webkit-transform: scale(1.03);
+    transform: scale(1.03); 
+}
+
+.imagem2{
+    transition: all 0.4s;
+    cursor: pointer;
+}
+
+.imagem3:hover{
+    
+    -webkit-transform: scale(1.03);
+    transform: scale(1.03); 
+}
+
+.imagem3{
+    transition: all 0.4s;
+    cursor: pointer;
+}
