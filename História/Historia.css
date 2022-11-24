@@ -1,0 +1,88 @@
+body{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Historia1{
+  color: antiquewhite;
+  text-align: center;
+}
+
+div.Roger>img{
+  padding-left: 300px; 
+}
+
+div.Roger>h3{
+  color: antiquewhite;
+  text-align: center;
+}
+
+div.GrandLine>img{
+  padding-left: 300px;
+}
+
+div.GrandLine>h3{
+  color: antiquewhite;
+  text-align: center;
+}
+
+div.Marinha>img{
+  padding-left: 300px;
+}
+
+div.Marinha>h3{
+  color: antiquewhite;
+  text-align: center;
+}
+
+div.Bando>img{
+  padding-left: 300px;
+}
+
+div.Bando>h3{
+  color: antiquewhite;
+  text-align: center;
+}
+
+div.Roger>img:hover{
+    
+  -webkit-transform: scale(1.05);
+  transform: scale(1.05); 
+}
+
+div.Roger>img{
+  transition: all 0.6s;
+  cursor: pointer;
+}
+
+div.GrandLine>img:hover{
+  
+  -webkit-transform: scale(1.05);
+  transform: scale(1.05); 
+}
+
+div.GrandLine>img{
+  transition: all 0.6s;
+  cursor: pointer;
+}
+
+div.Marinha>img:hover{
+  
+  -webkit-transform: scale(1.05);
+  transform: scale(1.05); 
+}
+
+div.Marinha>img{
+  transition: all 0.6s;
+  cursor: pointer;
+}
+
+div.Bando>img:hover{
+  
+  -webkit-transform: scale(1.05);
+  transform: scale(1.05); 
+}
+
+div.Bando>img{
+  transition: all 0.6s;
+  cursor: pointer;
+}
