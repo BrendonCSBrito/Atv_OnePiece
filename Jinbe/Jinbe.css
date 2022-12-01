@@ -1,3 +1,4 @@
+
 .imagem1:hover{
     
     -webkit-transform: scale(1.05);
@@ -29,4 +30,16 @@
 .imagem3{
     transition: all 0.6s;
     cursor: pointer;
+}
+
+.imagem1{
+    border-radius: 10px;
+}
+
+.imagem2{
+    border-radius: 10px;
+}
+
+.imagem3{
+    border-radius: 10px;
 }
