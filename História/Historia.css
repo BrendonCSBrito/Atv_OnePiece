@@ -5,42 +5,49 @@ body{
 .Historia1{
   color: antiquewhite;
   text-align: center;
+  font-size: 21px;
 }
 
 div.Roger>img{
   padding-left: 300px; 
+ 
 }
 
-div.Roger>h3{
+div.Roger>p{
   color: antiquewhite;
   text-align: center;
+  font-size: 21px;
 }
 
 div.GrandLine>img{
   padding-left: 300px;
+ 
 }
 
-div.GrandLine>h3{
+div.GrandLine>p{
   color: antiquewhite;
   text-align: center;
+  font-size: 21px;
 }
 
 div.Marinha>img{
   padding-left: 300px;
 }
 
-div.Marinha>h3{
+div.Marinha>p{
   color: antiquewhite;
   text-align: center;
+  font-size: 21px;
 }
 
 div.Bando>img{
   padding-left: 300px;
 }
 
-div.Bando>h3{
+div.Bando>p{
   color: antiquewhite;
   text-align: center;
+  font-size: 21px;
 }
 
 div.Roger>img:hover{
@@ -86,3 +93,4 @@ div.Bando>img{
   transition: all 0.6s;
   cursor: pointer;
 }
+
